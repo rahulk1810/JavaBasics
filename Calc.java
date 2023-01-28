@@ -3,5 +3,6 @@ class Calc{
         int a = 10;
         int b = 50;
         System.out.println(a+b);
+        System.out.println(a-b);
     }
 }
